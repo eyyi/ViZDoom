@@ -1,0 +1,15 @@
+{
+  "AttachStdin" : true,
+  "Tty" : true,
+  "OpenStdin" : true,
+  "Env" : [ "DISPLAY=192.168.1.104:0" ],
+  "Image" : "",
+  "Volumes" : { },
+  "ExposedPorts" : { },
+  "HostConfig" : {
+    "Binds" : [ ],
+    "NetworkMode" : "host",
+    "Privileged" : true
+  },
+  "_comment" : ""
+}
